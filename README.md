@@ -1,4 +1,4 @@
-TypeScript Webpack Demo
+TypeScript Webpack HTML Select OnChange Event Type Demo
 =======================================
 
 ```
